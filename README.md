@@ -10,4 +10,4 @@ visual studio 2019
 
 
 1) Calculator gavna
-just calculator
+just calculator for desktop computer
