@@ -1,0 +1,17 @@
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\bin\Debug\Guessing game.exe.config
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\bin\Debug\Guessing game.exe
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\bin\Debug\Guessing game.pdb
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.AssemblyReference.cache
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\MainWindow.g.cs
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\App.g.cs
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game_MarkupCompile.cache
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game_MarkupCompile.lref
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\MainWindow.baml
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.g.resources
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing_game.Properties.Resources.resources
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.GenerateResource.cache
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.CoreCompileInputs.cache
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.exe
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Guessing game.pdb
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Window1.g.cs
+C:\Users\вфаячямтип\Desktop\роботы\твп\отчет4 угадайка\Guessing game\Guessing game\obj\Debug\Window1.baml
