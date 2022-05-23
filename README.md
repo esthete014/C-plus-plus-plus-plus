@@ -10,4 +10,5 @@ visual studio 2019
 
 
 1) Calculator gavna
-just calculator for desktop computer
+               (just calculator for desktop computer)
+2) Guessing game v0.1
